@@ -1,2 +1,2 @@
 Outro Projeto.
-https://pedrovianax.github.io/desafio-cordel/
+https://pedrovianax.github.io/projeto-cordelmoderno/
